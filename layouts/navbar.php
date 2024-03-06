@@ -5,7 +5,7 @@
 			<!-- /Preload -->
 			<div id="logo">
 				<div id="logo-container">
-				<a href="index.html"><img src="img/logo.png" class="site-logo" alt=""></a>
+				<a href="index.php"><img src="img/logo.png" class="site-logo" alt=""></a>
 			</div>
 			</div>
 
@@ -19,8 +19,8 @@
 			</a>
 			<nav id="menu" class="main-menu">
 				<ul>
-					<li><span><a href="index.html">Home</a></span></li>
-					<li><span><a href="#0">About Us</a></span>
+					<li><span><a href="index.php">Home</a></span></li>
+					<li><span><a href="about-us.php">About Us</a></span>
 						<ul>
 							<li><a href="#">Over View</a></li>
 							<li><a href="#">Legacy Heritage</a></li>
