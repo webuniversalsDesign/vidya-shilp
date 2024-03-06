@@ -6153,3 +6153,56 @@ video::-webkit-media-controls-toggle-closed-captions-button {
   padding: 2px;
   font-size: 20px;
 }
+.below-banner,.footer-above{
+  padding: 20px 0px;
+}
+.hover-overlay:hover figure img{
+  transform: scale(1.1);
+}
+
+.hover-overlay:hover .overlay-white{
+  transform: translate(-50%, -50%) scale(1);
+
+}
+.overlay-white{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: rgba(255, 255, 255, 0.479);
+  height: 80%;
+  width: 100%;
+  transform: translate(-50%, -50%) scale(0);
+transition: all 0.3s ease-in-out;
+z-index: 1111;
+border-top: 2px solid white;
+border-bottom: 2px solid white;
+}
+.read-more{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  color: #002F87;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
+.read-more:hover{
+  color: #002F87;
+}
+.you-tube{
+ background-color: #A12B2F;
+ padding: 10px 5px;
+}
+.you-tube span, .you-tube a{
+  color: white;
+}
+.round-play{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: #A12B2F;
+  padding: 20px;
+}
