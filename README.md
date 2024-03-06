@@ -1,2 +1,0 @@
-# vidya-shilp
-School Website 
