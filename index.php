@@ -8,7 +8,7 @@
 
 	<title>Vidya Shilp School</title>
 
-<?php include('layouts/head.php')?>
+	<?php include('layouts/head.php') ?>
 </head>
 
 <body>
@@ -33,8 +33,8 @@
 				</div>
 			</div>
 		</div> -->
-		
-<?php include('layouts/navbar.php')?>
+
+		<?php include('layouts/navbar.php') ?>
 		<!-- /header -->
 
 		<main>
@@ -50,32 +50,30 @@
 				<!-- <img src="img/video_fix.png" alt="" class="header-video--media" data-video-src="video/intro2"
 					data-teaser-source="video/intro2" data-provider="" data-video-width="1920" data-video-height="960"> -->
 
-					<video class="header-video--media" 
-					controls autoplay muted loop
-				>
+				<video class="header-video--media" controls autoplay muted loop>
 					<source src="video/intro2.mp4" type="video/mp4">
 					<!-- Include additional source elements for other video formats if needed -->
-					
-				</video>	
-					
+
+				</video>
+
 			</section>
 
-        <section class="below-banner">
-             <div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-					<div class="main_title_2 mb-3">
-					<span><em></em></span>
-					<h2>VIDYASHILP SCHOOL BAGALUR – NORTH BENGALURU</h2>
-				</div>
-                      
-					   <p class="school-description text-center mb-4">
-					   Vidyashilp School carries forward the principles and best practices from the Vidyashilp Education Group (VSEG). The school fuses a curated curriculum, effective teaching practices and a robust sports infrastructure. All this, rooted in an ecosystem of strong.
-					   </p>
+			<section class="below-banner">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="main_title_2 mb-3">
+								<span><em></em></span>
+								<h2>VIDYASHILP SCHOOL BAGALUR – NORTH BENGALURU</h2>
+							</div>
+
+							<p class="school-description text-center mb-4">
+								Vidyashilp School carries forward the principles and best practices from the Vidyashilp Education Group (VSEG). The school fuses a curated curriculum, effective teaching practices and a robust sports infrastructure. All this, rooted in an ecosystem of strong.
+							</p>
+						</div>
 					</div>
 				</div>
-			 </div>
-		</section>
+			</section>
 
 			<!-- /header-video -->
 
@@ -310,10 +308,10 @@
 					</div>
 					<div class="row align-items-center">
 						<div class="col-lg-6 col-sm-12">
-                            <div class="image-box position-relative">
-							<img src="img/Bagalur Campus Image.jpg" class="img-control" alt="">
-							<div class="overlays"></div>
-						</div>
+							<div class="image-box position-relative">
+								<img src="img/Bagalur Campus Image.jpg" class="img-control" alt="">
+								<div class="overlays"></div>
+							</div>
 						</div>
 						<div class="col-lg-6 col-sm-12">
 							<p class="text-justify">Vidyashilp School carries forward the principles and best practices
@@ -388,140 +386,140 @@
 					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
 						<div class="position-relative hover-overlay">
 							<a href="#0" class="grid_item">
-							<figure class="block-reveal">
-								<div class="block-horizzontal"></div>
-								<img src="img/sports-1.jpg" class="img-fluid" alt="">
-								<div class="info">
-									<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
-									<h3>Sports</h3>
-									
-								</div>
-								
-							</figure>
-						</a>
-						<div class="overlay-white">
-                            <a href="#" class="read-more">Read More</a>
+								<figure class="block-reveal">
+									<div class="block-horizzontal"></div>
+									<img src="img/sports-1.jpg" class="img-fluid" alt="">
+									<div class="info">
+										<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
+										<h3>Sports</h3>
+
+									</div>
+
+								</figure>
+							</a>
+							<div class="overlay-white">
+								<a href="#" class="read-more">Read More</a>
+							</div>
 						</div>
-						</div>
-						
+
 					</div>
 					<!-- /grid_item -->
 					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
 						<div class="position-relative hover-overlay">
 							<a href="#0" class="grid_item">
-							<figure class="block-reveal">
-								<div class="block-horizzontal"></div>
-								<img src="img/Art.jpg" class="img-fluid" alt="">
-								<div class="info">
-									<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
-									<h3>Arts</h3>
-									
-								</div>
-								
-							</figure>
-						</a>
-						<div class="overlay-white">
-                            <a href="#" class="read-more">Read More</a>
+								<figure class="block-reveal">
+									<div class="block-horizzontal"></div>
+									<img src="img/Art.jpg" class="img-fluid" alt="">
+									<div class="info">
+										<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
+										<h3>Arts</h3>
+
+									</div>
+
+								</figure>
+							</a>
+							<div class="overlay-white">
+								<a href="#" class="read-more">Read More</a>
+							</div>
 						</div>
-						</div>
-						
+
 					</div>
-					
+
 					<!-- /grid_item -->
 					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
 						<div class="position-relative hover-overlay">
 							<a href="#0" class="grid_item">
-							<figure class="block-reveal">
-								<div class="block-horizzontal"></div>
-								<img src="img/singing.jpg" class="img-fluid" alt="">
-								<div class="info">
-									<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
-									<h3>Singing</h3>
-									
-								</div>
-								
-							</figure>
-						</a>
-						<div class="overlay-white">
-                            <a href="#" class="read-more">Read More</a>
+								<figure class="block-reveal">
+									<div class="block-horizzontal"></div>
+									<img src="img/singing.jpg" class="img-fluid" alt="">
+									<div class="info">
+										<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
+										<h3>Singing</h3>
+
+									</div>
+
+								</figure>
+							</a>
+							<div class="overlay-white">
+								<a href="#" class="read-more">Read More</a>
+							</div>
 						</div>
-						</div>
-						
+
 					</div>
-				
+
 					<!-- /grid_item -->
 					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
 						<div class="position-relative hover-overlay">
 							<a href="#0" class="grid_item">
-							<figure class="block-reveal">
-								<div class="block-horizzontal"></div>
-								<img src="img/dance.jpg" class="img-fluid" alt="">
-								<div class="info">
-									<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
-									<h3>Dance</h3>
-									
-								</div>
-								
-							</figure>
-						</a>
-						<div class="overlay-white">
-                            <a href="#" class="read-more">Read More</a>
+								<figure class="block-reveal">
+									<div class="block-horizzontal"></div>
+									<img src="img/dance.jpg" class="img-fluid" alt="">
+									<div class="info">
+										<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
+										<h3>Dance</h3>
+
+									</div>
+
+								</figure>
+							</a>
+							<div class="overlay-white">
+								<a href="#" class="read-more">Read More</a>
+							</div>
 						</div>
-						</div>
-						
+
 					</div>
-					
+
 					<!-- /grid_item -->
 					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
 						<div class="position-relative hover-overlay">
 							<a href="#0" class="grid_item">
-							<figure class="block-reveal">
-								<div class="block-horizzontal"></div>
-								<img src="img/yoga.jpg" class="img-fluid" alt="">
-								<div class="info">
-									<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
-									<h3>Yoga</h3>
-									
-								</div>
-								
-							</figure>
-						</a>
-						<div class="overlay-white">
-                            <a href="#" class="read-more">Read More</a>
+								<figure class="block-reveal">
+									<div class="block-horizzontal"></div>
+									<img src="img/yoga.jpg" class="img-fluid" alt="">
+									<div class="info">
+										<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
+										<h3>Yoga</h3>
+
+									</div>
+
+								</figure>
+							</a>
+							<div class="overlay-white">
+								<a href="#" class="read-more">Read More</a>
+							</div>
 						</div>
-						</div>
-						
+
 					</div>
-					
+
 					<!-- /grid_item -->
 					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
 						<div class="position-relative hover-overlay">
 							<a href="#0" class="grid_item">
-							<figure class="block-reveal">
-								<div class="block-horizzontal"></div>
-								<img src="img/writting.jpg" class="img-fluid" alt="">
-								<div class="info">
-									<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
-									<h3>writting</h3>
-									
-								</div>
-								
-							</figure>
-						</a>
-						<div class="overlay-white">
-                            <a href="#" class="read-more">Read More</a>
+								<figure class="block-reveal">
+									<div class="block-horizzontal"></div>
+									<img src="img/writting.jpg" class="img-fluid" alt="">
+									<div class="info">
+										<!-- <small><i class="ti-layers"></i>15 Programmes</small> -->
+										<h3>writting</h3>
+
+									</div>
+
+								</figure>
+							</a>
+							<div class="overlay-white">
+								<a href="#" class="read-more">Read More</a>
+							</div>
 						</div>
-						</div>
-						
+
 					</div>
-					
+
 					<!-- /grid_item -->
 				</div>
 				<!-- /row -->
 			</div>
 			<!-- /container -->
 
-		
+
 
 
 			<!-- <div class="bg_color_1">
@@ -549,8 +547,8 @@
 								are her forte</p>
 
 						</div> -->
-						<!-- /box_news -->
-						<!-- <div class="col-lg-6">
+			<!-- /box_news -->
+			<!-- <div class="col-lg-6">
 							<a class="box_news" href="#0">
 								<figure><img src="img/news_home_2.jpg" alt="">
 									<figcaption><strong>28</strong>Dec</figcaption>
@@ -564,8 +562,8 @@
 									esse ullum vidisse....</p>
 							</a>
 						</div> -->
-						<!-- /box_news -->
-						<!-- <div class="col-lg-6">
+			<!-- /box_news -->
+			<!-- <div class="col-lg-6">
 							<a class="box_news" href="#0">
 								<figure><img src="img/news_home_3.jpg" alt="">
 									<figcaption><strong>28</strong>Dec</figcaption>
@@ -579,8 +577,8 @@
 									esse ullum vidisse....</p>
 							</a>
 						</div> -->
-						<!-- /box_news -->
-						<!-- <div class="col-lg-6">
+			<!-- /box_news -->
+			<!-- <div class="col-lg-6">
 							<a class="box_news" href="#0">
 								<figure><img src="img/news_home_4.jpg" alt="">
 									<figcaption><strong>28</strong>Dec</figcaption>
@@ -594,12 +592,12 @@
 									esse ullum vidisse....</p>
 							</a>
 						</div> -->
-						<!-- /box_news -->
-					<!-- </div> -->
-					<!-- /row -->
+			<!-- /box_news -->
+			<!-- </div> -->
+			<!-- /row -->
 
-				<!-- </div> -->
-				<!-- /container -->
+			<!-- </div> -->
+			<!-- /container -->
 			<!-- </div> -->
 			<!-- /bg_color_1 -->
 
@@ -636,92 +634,92 @@
 			</div> -->
 			<!--/call_section-->
 			<section class="footer-above">
-			<div class="container margin_30_95">
-				<div class="main_title_2">
-					<span><em></em></span>
-					<h2>Co-Curriculars</h2>
+				<div class="container margin_30_95">
+					<div class="main_title_2">
+						<span><em></em></span>
+						<h2>Co-Curriculars</h2>
+					</div>
+					<div class="row">
+						<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
+							<div class="position-relative hover-overlay">
+								<a href="#0" class="grid_item mb-0">
+									<figure class="block-reveal mb-0">
+										<div class="block-horizzontal"></div>
+										<img src="img/aparna.png" class="img-fluid" alt="">
+
+
+									</figure>
+									<div class="overlay-white" style="width:80%;border:1px solid white;">
+										<a href="#" class="read-more">View More</a>
+									</div>
+									<div class="d-flex align-items-center justify-content-between mt-0 mb-0 you-tube">
+										<span>- Ms. Aparna, Parent at Vidyashilp<br> School</span>
+										<a href="#"><i class="fas fa-play round-play"></i></a>
+									</div>
+								</a>
+
+							</div>
+
+						</div>
+						<!-- /grid_item -->
+						<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
+							<div class="position-relative hover-overlay">
+								<a href="#0" class="grid_item mb-0">
+									<figure class="block-reveal mb-0">
+										<div class="block-horizzontal"></div>
+										<img src="img/MsSnehapriya.png" class="img-fluid" alt="">
+
+
+									</figure>
+									<div class="overlay-white" style="width:80%;border:1px solid white;">
+										<a href="#" class="read-more">View More</a>
+									</div>
+									<div class="d-flex align-items-center justify-content-between mt-0 mb-0 you-tube">
+										<span>- Ms. Snehapriya, Parent at Vidyashilp <br> School</span>
+										<a href="#"><i class="fas fa-play round-play"></i></a>
+									</div>
+								</a>
+
+							</div>
+
+						</div>
+
+						<!-- /grid_item -->
+						<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
+							<div class="position-relative hover-overlay">
+								<a href="#0" class="grid_item mb-0">
+									<figure class="block-reveal mb-0">
+										<div class="block-horizzontal"></div>
+										<img src="img/MsKuldeep.png" class="img-fluid" alt="">
+
+
+									</figure>
+									<div class="overlay-white" style="width:80%;border:1px solid white;">
+										<a href="#" class="read-more">View More</a>
+									</div>
+									<div class="d-flex align-items-center justify-content-between mt-0 mb-0 you-tube">
+										<span>- Mr. Kuldeep and Ms. Jyothi, Parents <br> at Vidyashilp School</span>
+										<a href="#"><i class="fas fa-play round-play"></i></a>
+									</div>
+								</a>
+
+							</div>
+
+						</div>
+
+
+
+
+
+					</div>
+					<!-- /row -->
 				</div>
-				<div class="row">
-					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
-						<div class="position-relative hover-overlay">
-							<a href="#0" class="grid_item mb-0">
-							<figure class="block-reveal mb-0">
-								<div class="block-horizzontal"></div>
-								<img src="img/aparna.png" class="img-fluid" alt="">
-								
-								
-							</figure>
-							<div class="overlay-white" style="width:80%;border:1px solid white;">
-                            <a href="#" class="read-more">View More</a>
-						</div>
-							<div class="d-flex align-items-center justify-content-between mt-0 mb-0 you-tube">
-								<span>- Ms. Aparna, Parent at Vidyashilp<br> School</span>
-								<a href="#"><i class="fas fa-play round-play"></i></a>
-							</div>
-						</a>
-						
-						</div>
-						
-					</div>
-					<!-- /grid_item -->
-					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
-						<div class="position-relative hover-overlay">
-							<a href="#0" class="grid_item mb-0">
-							<figure class="block-reveal mb-0">
-								<div class="block-horizzontal"></div>
-								<img src="img/MsSnehapriya.png" class="img-fluid" alt="">
-								
-								
-							</figure>
-							<div class="overlay-white" style="width:80%;border:1px solid white;">
-                            <a href="#" class="read-more">View More</a>
-						</div>
-							<div class="d-flex align-items-center justify-content-between mt-0 mb-0 you-tube">
-								<span>- Ms. Snehapriya, Parent at Vidyashilp <br> School</span>
-								<a href="#"><i class="fas fa-play round-play"></i></a>
-							</div>
-						</a>
-						
-						</div>
-						
-					</div>
-					
-					<!-- /grid_item -->
-					<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">
-						<div class="position-relative hover-overlay">
-							<a href="#0" class="grid_item mb-0">
-							<figure class="block-reveal mb-0">
-								<div class="block-horizzontal"></div>
-								<img src="img/MsKuldeep.png" class="img-fluid" alt="">
-								
-								
-							</figure>
-							<div class="overlay-white" style="width:80%;border:1px solid white;">
-                            <a href="#" class="read-more">View More</a>
-						</div>
-							<div class="d-flex align-items-center justify-content-between mt-0 mb-0 you-tube">
-								<span>- Mr. Kuldeep and Ms. Jyothi, Parents <br> at Vidyashilp School</span>
-								<a href="#"><i class="fas fa-play round-play"></i></a>
-							</div>
-						</a>
-						
-						</div>
-						
-					</div>
-				
-					
-					
-					
-					
-				</div>
-				<!-- /row -->
-			</div>
-			<!-- /container -->
+				<!-- /container -->
 			</section>
 		</main>
 		<!-- /main -->
 
-		<?php @include('layouts/footer.php')?>
+		<?php @include('layouts/footer.php') ?>
 	</div>
 	<!-- page -->
 
@@ -742,24 +740,23 @@
 		});
 	</script>
 	<script>
-window.addEventListener('scroll', function() {
-    var logoContainer = document.getElementById('logo-container');
-    var navItems = document.querySelectorAll('.main-menu ul li span a');
+		window.addEventListener('scroll', function() {
+			var logoContainer = document.getElementById('logo-container');
+			var navItems = document.querySelectorAll('.main-menu ul li span a');
 
-    if (window.scrollY > 100) {
-        logoContainer.innerHTML = '<a href="index.html"><img src="img/footer_logo.png" class="site-logo" alt=""></a>';
-        navItems.forEach(function(item) {
-            item.style.color = 'white';
-        });
-    } else {
-        logoContainer.innerHTML = '<a href="index.html"><img src="img/logo.png" class="site-logo" alt=""></a>';
-        navItems.forEach(function(item) {
-            item.style.color = ''; // Reset to default color
-        });
-    }
-});
-
-</script>
+			if (window.scrollY > 100) {
+				logoContainer.innerHTML = '<a href="index.html"><img src="img/footer_logo.png" class="site-logo" alt=""></a>';
+				navItems.forEach(function(item) {
+					item.style.color = 'white';
+				});
+			} else {
+				logoContainer.innerHTML = '<a href="index.html"><img src="img/logo.png" class="site-logo" alt=""></a>';
+				navItems.forEach(function(item) {
+					item.style.color = ''; // Reset to default color
+				});
+			}
+		});
+	</script>
 </body>
 
 </html>
