@@ -15,6 +15,7 @@
 
         </section>
     </main>
+    <?php @include('layouts/footer.php')?>
     <!-- COMMON SCRIPTS -->
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/common_scripts.js"></script>
