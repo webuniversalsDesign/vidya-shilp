@@ -20,6 +20,7 @@
 			<nav id="menu" class="main-menu">
 				<ul>
 					<li><span><a href="index.php">Home</a></span></li>
+<<<<<<< HEAD
 					<li><span><a href="about-us.php">About Us</a></span>
 						<ul>
 							<li><a href="#">Over View</a></li>
@@ -33,10 +34,14 @@
 						</ul>
 					</li>
 					<li><span><a href="campus.php">Campus</a></span></li>
+=======
+					<li><span><a href="about-us.php">About Us</a></span></li>
+					<li><span><a href="#">Campus</a></span></li>
+>>>>>>> fecd067b5694406dbfdcd17752981fd30213fa31
 					<li><span><a href="#">Academics</a></span></li>
 					<li><span><a href="#">Co-Curriculars</a></span></li>
 					<li><span><a href="#">Facilities</a></span>
-					<li><span><a href="#">Gallery</a></span>
+					<li><span><a href="gallery.php">Gallery</a></span>
 					<li><span><a href="#">Testimonials</a></span>
 					<li><span><a href="#">News Corner</a></span>
 						<ul>
