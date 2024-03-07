@@ -193,6 +193,7 @@
 
 
 
+    <?php @include('layouts/footer.php')?>
 
 
     <!-- COMMON SCRIPTS -->
