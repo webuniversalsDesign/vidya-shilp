@@ -6241,3 +6241,40 @@ border-bottom: 2px solid white;
   background-color: #A12B2F;
   padding: 20px;
 }
+
+.breadcrumb-section{
+  background: rgba(0, 0, 0, 0.658) url('../img/slides/new/page-bnner-2.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  width: 100%;
+position: relative;
+background-blend-mode: darken;
+}
+
+.breadcrumb-section .head{
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+}
+
+.breadcrumb-section .head h1{
+  color: white;
+}
+
+a{
+  color: inherit;
+}
+
+.t-color-white{
+  color: white;
+}
+
+.currucular-img{
+  width: 100%;
+  height: 300px;
+background-color: rgb(207, 207, 207);
+border-radius:10px ;
+}

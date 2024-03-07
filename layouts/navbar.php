@@ -23,22 +23,15 @@
 					<li><span><a href="about-us.php">About Us</a></span></li>
 					<li><span><a href="#">Campus</a></span></li>
 					<li><span><a href="#">Academics</a></span></li>
-					<li><span><a href="#">Co-Curriculars</a></span></li>
-					<li><span><a href="#">Facilities</a></span>
+					<li><span><a href="co-curriculars.php">Co-Curriculars</a></span></li>
 					<li><span><a href="gallery.php">Gallery</a></span>
 					<li><span><a href="#">Testimonials</a></span>
 					<li><span><a href="#">News Corner</a></span>
 						<ul>
-							<!-- <li><a href="#0">Gallery</a></li>
-							<li><a href="about.html">About</a></li> -->
+						
 							<li><a href="blog.html">Blog</a></li>
 							<li><a href="login.html">Events</a></li>
-							<!-- <li><a href="register.html">Register</a></li>
-							<li><a href="contacts.html">Contacts</a></li>
-							<li><a href="404.html">404 page</a></li>
-							<li><a href="agenda-calendar.html">Agenda Calendar</a></li>
-							<li><a href="faq.html">Faq</a></li>
-							<li><a href="help.html">Help</a></li> -->
+							
 						</ul>
 					</li>
 

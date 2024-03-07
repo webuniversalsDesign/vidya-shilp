@@ -13,8 +13,16 @@
         <?php include('layouts/navbar.php') ?>
         <main>
 
+        
+<div class="breadcrumb-section">
+    <div class="head">
+    <h1 class="text-center ">About us </h1>
+    <p class="text-center t-color-white"><a href="index.php">Home</a> / About us</p>
+    </div>
+</div>
+
             <div class="bg_color_1 mt-5 pt-5">
-                <div class="container margin_120_95 pt-5 mt-5">
+                <div class="container  ">
 
                     <div class="row">
                         <div class="col-lg-6 col-sm-12">
@@ -230,11 +238,7 @@
 
 
                 <div class="row pt-5 align-items-center">
-                    <div class="col-md-3 py-1">
-                        <div class="d-flex justify-content-center">
-                            <img src="img/slides/new/head2.png" class="img-fluid" alt="" style="border-radius: 50%;" />
-                        </div>
-                    </div>
+                  
                     <div class="col-md-9 py-1">
                         <h4 class="mb-3 t-color-blue">Message from Principal</h4>
                         <p>We believe in a joyful experiential learning system where each child is encouraged to
@@ -245,6 +249,12 @@
                             simultaneously fuel emotional, social, intellectual, physical and
                             ethical development. We must enjoy this journey with our children,
                             reliving and rediscovering the magic of learning! </p>
+                    </div>
+
+                    <div class="col-md-3 py-1">
+                        <div class="d-flex justify-content-center">
+                            <img src="img/slides/new/head2.png" class="img-fluid" alt="" style="border-radius: 50%;" />
+                        </div>
                     </div>
                 </div>
             </div>
