@@ -509,12 +509,12 @@
 			var navItems = document.querySelectorAll('.main-menu ul li span a');
 
 			if (window.scrollY > 100) {
-				logoContainer.innerHTML = '<a href="index.html"><img src="img/footer_logo.png" class="site-logo" alt=""></a>';
+				logoContainer.innerHTML = '<a href="index.php"><img src="img/footer_logo.png" class="site-logo" alt=""></a>';
 				navItems.forEach(function(item) {
 					item.style.color = 'white';
 				});
 			} else {
-				logoContainer.innerHTML = '<a href="index.html"><img src="img/logo.png" class="site-logo" alt=""></a>';
+				logoContainer.innerHTML = '<a href="index.php"><img src="img/logo.png" class="site-logo" alt=""></a>';
 				navItems.forEach(function(item) {
 					item.style.color = ''; // Reset to default color
 				});
