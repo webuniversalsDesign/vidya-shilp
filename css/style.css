@@ -6199,12 +6199,30 @@ color: #00488e;
   transform: translate(-50%, -50%) scale(1);
 
 }
+
+.hover-overlay:hover .overlay-white-2{
+  transform: translate(-50%, -50%) scale(1);
+
+}
 .overlay-white{
   position: absolute;
   top: 50%;
   left: 50%;
   background-color: rgba(255, 255, 255, 0.479);
   height: 80%;
+  width: 100%;
+  transform: translate(-50%, -50%) scale(0);
+transition: all 0.3s ease-in-out;
+z-index: 1111;
+
+}
+
+.overlay-white-2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: rgba(255, 255, 255, 0.658);
+  height: 40%;
   width: 100%;
   transform: translate(-50%, -50%) scale(0);
 transition: all 0.3s ease-in-out;
@@ -6247,7 +6265,7 @@ border-bottom: 2px solid white;
   font-size: 20px;
   text-transform: uppercase;
 }
-.academics-description{
+.academics-description , .facili-description{
   font-size: 16px !important;
   text-align: center;
   margin-top: 20px;
@@ -6257,6 +6275,64 @@ border-bottom: 2px solid white;
   transition: all .3s ease-in-out;
 }
 .customize-card:hover{
-  box-shadow: 5px -2px 14px 4px #002F87;
+  box-shadow: 5px -2px 14px 4px #e0e0e0;
   transition: all .3s ease-in-out;
+}
+.card-title{
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  transition: all .3s ease-in-out;
+
+}
+.customize-card img{
+  height: 150px;
+  object-fit: cover;
+  transition: all .3s ease-in-out;
+}
+.customize-card:hover img{
+  transform: scale(1.1);
+  transition: all .3s ease-in-out;
+}
+.customize-card:hover .card-title{
+  color: #A12B2F;
+  transition: all .3s ease-in-out;
+
+}
+.card-description{
+  text-align: justify;
+}
+.campus-banner{
+  background-image: url(../img/slides/new/campus-banner.jpg);
+  background-image: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.good{
+ background-color: #A02B2F;
+
+}
+.Good-title{
+  color: #fff;
+}
+.good-description{
+  color: #fff !important;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
+.color-change span em {
+   background-color: #002F87 !important;
+}
+.campus-image{
+  padding: 20px 0px;
+}
+.campus img {
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  opacity: 1 !important;
 }

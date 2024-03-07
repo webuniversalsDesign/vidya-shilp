@@ -20,24 +20,8 @@
 			<nav id="menu" class="main-menu">
 				<ul>
 					<li><span><a href="index.php">Home</a></span></li>
-<<<<<<< HEAD
-					<li><span><a href="about-us.php">About Us</a></span>
-						<ul>
-							<li><a href="#">Over View</a></li>
-							<li><a href="#">Legacy Heritage</a></li>
-							<!-- <li><a href="courses-list.html">Courses list</a></li>
-							<li><a href="courses-list-sidebar.html">Courses list sidebar</a></li>
-							<li><a href="course-detail.html">Course detail</a></li>
-							<li><a href="course-detail-2.html">Course detail working form</a></li>
-							<li><a href="admission.html">Admission wizard</a></li>
-							<li><a href="teacher-detail.html">Teacher detail</a></li> -->
-						</ul>
-					</li>
-					<li><span><a href="campus.php">Campus</a></span></li>
-=======
 					<li><span><a href="about-us.php">About Us</a></span></li>
-					<li><span><a href="#">Campus</a></span></li>
->>>>>>> fecd067b5694406dbfdcd17752981fd30213fa31
+					<li><span><a href="campus.php">Campus</a></span></li>
 					<li><span><a href="#">Academics</a></span></li>
 					<li><span><a href="#">Co-Curriculars</a></span></li>
 					<li><span><a href="#">Facilities</a></span>
