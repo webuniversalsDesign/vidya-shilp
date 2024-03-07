@@ -6275,6 +6275,76 @@ a{
 .currucular-img{
   width: 100%;
   height: 300px;
-background-color: rgb(207, 207, 207);
 border-radius:10px ;
+}
+
+.currucular-img img{
+height: 100%;
+width: 100%;
+object-fit: cover;
+border-radius:10px ;
+}
+
+.acadamic-card{
+position: relative;
+}
+
+.acadamic-place{
+  position: relative;
+  height: 300px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.acadamic-place img{
+height: 100%;
+width: 100%;
+object-fit: cover;
+}
+
+.acadamic-place .content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+
+}
+
+.acadamic-place .overlay-img-white{
+  background-color: rgba(255, 255, 255, 0.856);
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  left: -450px;
+  opacity: 0;
+  position: absolute;
+  transition: all 0.4s ease-in-out;
+}
+.acadamic-card:hover .acadamic-place .overlay-img-white{
+  left: 0px;
+  opacity: 1;
+}
+
+.hover-none{
+  opacity: 1;
+  transform: translateY(0px);
+  transition: all 0.4s ease-in-out;
+
+}
+.acadamic-card:hover .hover-none{
+  opacity:0;
+  transform: translateY(-60px);
+}
+
+.acadamic-place p{
+color: black;
+}
+
+.bg-red{
+  background-color: #A12B2F;
+}
+
+.t-color-white{
+  color: white;
 }

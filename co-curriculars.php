@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About us - Vidya Shilp School</title>
+    <title>Co-curricular - Vidya Shilp School</title>
     <?php include('layouts/head.php') ?>
 </head>
 
@@ -35,7 +35,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                            <img src="img/curricular-img/sport.avif"/>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
 
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/art.avif"/>
                         </div>
                     </div>
                     <div class="col-md-1"></div>
@@ -73,7 +73,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/performing.avif"/>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,8 @@
 
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/public-speaking.avif"/>
+
                         </div>
                     </div>
                     <div class="col-md-1"></div>
@@ -110,7 +111,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/creative-writing.avif"/>
                         </div>
                     </div>
                 </div>
@@ -119,7 +120,7 @@
 
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/yoga.avif"/>
                         </div>
                     </div>
                     <div class="col-md-1"></div>
@@ -145,7 +146,8 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/value-education.avif"/>
+
                         </div>
                     </div>
                 </div>
@@ -154,7 +156,7 @@
 
                     <div class="col-md-5">
                         <div class="currucular-img">
-                            <!-- <img src=""/> -->
+                        <img src="img/curricular-img/chess.avif"/>
                         </div>
                     </div>
                     <div class="col-md-1"></div>

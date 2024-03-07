@@ -22,15 +22,15 @@
 					<li><span><a href="index.php">Home</a></span></li>
 					<li><span><a href="about-us.php">About Us</a></span></li>
 					<li><span><a href="#">Campus</a></span></li>
-					<li><span><a href="#">Academics</a></span></li>
+					<li><span><a href="academics.php">Academics</a></span></li>
 					<li><span><a href="co-curriculars.php">Co-Curriculars</a></span></li>
 					<li><span><a href="gallery.php">Gallery</a></span>
 					<li><span><a href="#">Testimonials</a></span>
 					<li><span><a href="#">News Corner</a></span>
 						<ul>
 						
-							<li><a href="blog.html">Blog</a></li>
-							<li><a href="login.html">Events</a></li>
+							<li><a href="blog.php">Blog</a></li>
+							<li><a href="login.php">Events</a></li>
 							
 						</ul>
 					</li>
