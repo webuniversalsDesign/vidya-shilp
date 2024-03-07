@@ -89,12 +89,12 @@
 
             <div class="container py-5">
                 <div class="row">
-                    <div class="col-md-6">
-                        <div class="shadow p-4 b-radius-10 w-max-content">
+                    <div class="col-md-6 " >
+                        <div class="shadow p-4 b-radius-10 w-max-content wow" data-wow-offset="150">
 
                             <div class="d-flex gap-2 align-items-center pb-3">
                                 <i class="icon-target-3 icon-view"></i>
-                                <h4 class="margin-0 t-color-red">Our Vision</h3>
+                                <h4 class="margin-0 t-color-red"> <i class="fa-solid fa-bullseye"></i> Our Vision</h3>
                             </div>
                             <p class="margin-0">Vidyashilp School embraces an integral system of education
                                 to create a community where purposeful learning focuses on
@@ -106,7 +106,7 @@
 
                             <div class="d-flex gap-2 align-items-center pb-3">
                                 <i class="icon-puzzle icon-view"></i>
-                                <h4 class="margin-0 t-color-red">Our Mission</h3>
+                                <h4 class="margin-0 t-color-red"><i class="fa-solid fa-ranking-star"></i> Our Mission</h3>
                             </div>
                             <p class="margin-0">Our mission is to design and create an interconnected system involving
                                 the child, home and school. Through collaboration and cooperation, we ensure that
@@ -186,16 +186,65 @@
                     </div>
 
                     <div class="col">
-                        <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content">Over 800 Awards</p>
+                        <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content">Over <span class="t-color-red"><b>800</b></span> Awards</p>
                     </div>
                 </div>
             </div>
 
 
             <div class="container py-5">
+                <h2 class="text-center pt-2 pb-5">LEADERSHIP</h2>
+
                 <div class="row">
-                    <div class="col-md-6">
-                        <img src="" />
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <img src="img/slides/new/leadersship1.png" alt="" class="img-fluid w-max-content" />
+                    </div>
+                    <div class="col-md-4">
+                        <img src="img/slides/new/leadersship2.png" alt="" class="img-fluid w-max-content" />
+                    </div>
+                    <div class="col-md-2"></div>
+
+                </div>
+            </div>
+
+            <hr />
+            <div class="container py-5">
+                <div class="row align-items-center">
+                    <div class="col-md-3 py-1">
+                        <div class="d-flex justify-content-center">
+                            <img src="img/slides/new/head1.png" class="img-fluid" alt="" style="border-radius: 50%;" />
+                        </div>
+                    </div>
+                    <div class="col-md-9 py-1">
+                        <h4 class="mb-3 t-color-blue">Academic Head</h4>
+                        <p>A seasoned educator, with 37 years of teaching and leadership experience behind her, Ms.
+                            Nalini Ponnappa comes with a strong time-tested know-how of the way children learn. She
+                            has a Master’s in Education and taught across grades in Delhi, Lagos and Bangalore. As
+                            the Academic Head of Vidyashilp School, Ms. Nalini will take forward the vision of building
+                            a school that offers a journey of great learning via self-discovery and exploration. Her
+                            repertoire includes various curricula, ICSE, ISC, CBSE and accredited programs. Developing innovative curriculum,
+                            child-centric administrative policies, counselling, guidance and innovative educational breakthrough are her forte</p>
+                    </div>
+                </div>
+
+
+                <div class="row pt-5 align-items-center">
+                    <div class="col-md-3 py-1">
+                        <div class="d-flex justify-content-center">
+                            <img src="img/slides/new/head2.png" class="img-fluid" alt="" style="border-radius: 50%;" />
+                        </div>
+                    </div>
+                    <div class="col-md-9 py-1">
+                        <h4 class="mb-3 t-color-blue">Message from Principal</h4>
+                        <p>We believe in a joyful experiential learning system where each child is encouraged to
+                            participate wholeheartedly. There are only two lasting bequests we can give our children.
+                            One is roots, and the other, wings! One is offered by our loving parents and the other is
+                            offered by us. Multi-disciplinary activities designed by our teachers arouse the child’s
+                            curiosity to discover the mystery of the world we live in. As they do, the experiences
+                            simultaneously fuel emotional, social, intellectual, physical and
+                            ethical development. We must enjoy this journey with our children,
+                            reliving and rediscovering the magic of learning! </p>
                     </div>
                 </div>
             </div>

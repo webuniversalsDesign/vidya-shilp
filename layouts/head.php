@@ -26,3 +26,4 @@
 
 	<!-- Modernizr -->
 	<script src="js/modernizr.js"></script>
+	<script src="https://kit.fontawesome.com/89650c467a.js" crossorigin="anonymous"></script>
