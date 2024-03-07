@@ -32,7 +32,7 @@
 							<li><a href="teacher-detail.html">Teacher detail</a></li> -->
 						</ul>
 					</li>
-					<li><span><a href="#">Campus</a></span></li>
+					<li><span><a href="campus.php">Campus</a></span></li>
 					<li><span><a href="#">Academics</a></span></li>
 					<li><span><a href="#">Co-Curriculars</a></span></li>
 					<li><span><a href="#">Facilities</a></span>
