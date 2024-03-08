@@ -36,9 +36,9 @@
 					</li>
 
 					<li><span><a href="addmissions.php">Addmissions</a></span></li>
-					<li class="desktop-hid"><span><a href="">E-Prospects</a></span></li>
-					<li class="desktop-hid"><span><a href="">Enquire now</a></span></li>
-					<li class="desktop-hid"><span><a href="">Contact Us</a></span></li>
+					<li class="desktop-hid"><span><a href="e-prospectus.php">E-Prospects</a></span></li>
+					<li class="desktop-hid"><span><a href="enquire.php">Enquire now</a></span></li>
+					<li class="desktop-hid"><span><a href="contact.php">Contact Us</a></span></li>
 					<li class="desktop-hid one-line"><a href=""><i class="fab fa-facebook-square"></i>
 					</a><a href=""><i class="fab fa-instagram-square"></i>
 					</a><a href=""><i class="fab fa-youtube-square"></i>
@@ -66,9 +66,9 @@
 							</div>
 							<div class="offcanvas-body">
 							<div class="d-flex flex-column bd-highlight mb-3">
-								<p class="mb-1"><a href="#" class="top-links top-link-btn mb-2">E-Prospects</a></p>
-								<p class="mb-1"><a href="#" class="top-links top-link-btn mb-2">Enquire now</a></p>
-								<p class="mb-1"><a href="#" class="top-links top-link-btn mb-2">Contact Us</a></p>
+								<p class="mb-1"><a href="e-prospectus.php" class="top-links top-link-btn mb-2">E-Prospects</a></p>
+								<p class="mb-1"><a href="enquire.php" class="top-links top-link-btn mb-2">Enquire now</a></p>
+								<p class="mb-1"><a href="contact.php" class="top-links top-link-btn mb-2">Contact Us</a></p>
 								<p class="social-icon-togler d-flex mb-1"><a href=""><i class="fab fa-facebook-square"></i>
 								</a><a href=""><i class="fab fa-instagram-square"></i>
 								</a><a href=""><i class="fab fa-youtube-square"></i>
