@@ -58,6 +58,22 @@
                 <!-- /container -->
             </div>
 
+            <div class="container py-3">
+                <div class="row align-items-center">
+                    <div class="col-md-3">
+<img src="img/acadmic/VSEG_Logo.png" alt="" class="img-fluid"/>
+                    </div>
+                    <!-- <div class="col-md-1"></div> -->
+                    <div class="col-md-9">
+                    <p class="margin-0 bg-red p-3 t-color-white b-radius-5 text-justify">Vilyap Education Group is recognized worldwide for our unique curriculum and teaching practices. Backed 
+                        by close to four decades of proven excellence, our portfolio of Intentions provide thougha leadenhip to
+                         the education community across the country. The Group consists 
+                        of the flagship Vidyashilp Academy, Vidyasagar Preschools along with Vilyadulp 
+                        Schools and Vidyashlp Unversity.</p>
+                    </div>
+                </div>
+            </div>
+
             <div class="container py-5">
                 <h2 class="text-center pt-2 pb-5">OTHER CAMPUSES</h2>
                 <div class="row">
