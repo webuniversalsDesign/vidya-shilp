@@ -1,26 +1,29 @@
 <footer>
 			<div class="container margin_120_95">
 				<div class="row justify-content-between">
-					<div class="col-lg-4 col-md-12">
+					<div class="col-lg-3 col-md-12">
 						<img src="img/footer_logo.png">
 
 					</div>
 					<div class="col-lg-3 col-md-6 ml-lg-auto">
 						<h5>Quick links</h5>
 						<ul class="links">
-							<li><a href="#0">About Us</a></li>
-							<li><a href="#0">Campus</a></li>
-							<li><a href="#0">Admission</a></li>
-							<li><a href="#0">Academics</a></li>
-							<li><a href="#0">Co-Curiculars</a></li>
-							<li><a href="#0">Facilities</a></li>
+							<li><a href="about-us.php">About Us</a></li>
+							<li><a href="campus.php">Campus</a></li>
+							<li><a href="addmissions.php">Admission</a></li>
+							<li><a href="academics.php">Academics</a></li>
+							<li><a href="co-curriculars.php">Co-Curiculars</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
-					<div class="col-lg-4 col-md-6">
+					<div class="col-lg-3 col-md-6">
 						<h5>Vidyashilp School, Bagalur</h5>
 						<ul class="contacts">
-							<li>90/1, Chagalatti, Off Hennur-Bagalur Road, Bengaluru – 562149</li>
-							<li><a href="tel:6366636624"><i class="ti-mobile"></i>+91-6366636624</a></li>
+							<li class="d-flex gap-2">
+								<i class="fa-solid fa-location-dot mt-2"></i>
+								<span> 90/1, Chagalatti, Off Hennur-Bagalur Road, Bengaluru – 562149</span>
+							</li>
+							<li><a href="tel:6366636624"><i class="fa-solid fa-phone"></i>+91-6366636624</a></li>
 
 						</ul>
 						<div id="newsletter">
