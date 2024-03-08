@@ -73,6 +73,9 @@
 								engaging learning experiences, Vidyashilp School prepares children to become
 								well-rounded individuals and responsible global citizens. Just the way you would want
 								them to be.</p>
+								<p class="text-center">
+									<a href="#" class="blue-link">Know More</a>
+								</p>
 
 						</div>
 						
@@ -339,11 +342,66 @@
 				</div>
 			</div> -->
 			<!--/call_section-->
+			<section class="academics-section mt-3 mb-3 pt-3 pb-3">
+               <div class="container">
+			   <div class="main_title_2">
+						<span><em></em></span>
+						<h2>ACADEMICS</h2>
+						<p class="academics-description">Our learning methodology has been honed over decades to equip your child with life skills that go way beyond classrooms and textbooks. The 4 Cs form the ethos of our learning philosophy:</p>
+					</div>
+					<div class="row">
+						<div class="col-lg-3 col-sm-12 mb-3">
+                           <div class="card p-3 customize-card w-max-content">
+							<img src="./img/card-image-1.jpg" alt="">
+							<div class="card-content">
+								<h4 class="card-title">Co-operative<br> Learning</h4>
+								<p class="card-description margin-0">
+								Co-operative learning is ingrained in the DNA of Vidyashilp School, where students are encouraged to learn not only from their teachers, but also from their peers.
+								</p>
+							</div>
+						   </div>
+						</div>
+						<div class="col-lg-3 col-sm-12 mb-3">
+						<div class="card p-3 customize-card w-max-content">
+							<img src="./img/card-image-2.jpg" alt="">
+							<div class="card-content">
+								<h4 class="card-title">Cultural<br> Anchoring</h4>
+								<p class="card-description margin-0">
+								A sense of rootedness in Indian culture percolates the Vidyashilp way of learning. Where values prevail, the foundation gets stronger.
+								</p>
+							</div>
+						   </div>
+						</div>
+						<div class="col-lg-3 col-sm-12 mb-3">
+						<div class="card p-3 customize-card w-max-content">
+							<img src="./img/card-image-3.jpg" alt="">
+							<div class="card-content">
+								<h4 class="card-title">Communication &<br> Self-Expression</h4>
+								<p class="card-description margin-0">
+								Children are encouraged to express thoughts clearly, articulate opinions and motivate others. This helps them communicate more effectively with their teachers, peers and friends.
+								</p>
+							</div>
+						   </div>
+						</div>
+						<div class="col-lg-3 col-sm-12 mb-3">
+						<div class="card p-3 customize-card w-max-content">
+							<img src="./img/card-image-4.jpg" alt="">
+							<div class="card-content">
+								<h4 class="card-title">Critical<br> Thinking</h4>
+								<p class="card-description margin-0">
+								Class activities are designed to improve children’s problem-solving and decision-making abilities. As a result, they develop good judgement and learn to make the right choices in life.
+								</p>
+							</div>
+						   </div>
+						</div>
+					</div>
+			   </div>
+			</section>
 			<section class="footer-above">
 				<div class="container margin_30_95">
 					<div class="main_title_2">
 						<span><em></em></span>
-						<h2>Co-Curriculars</h2>
+						<h2>TESTIMONIALS</h2>
 					</div>
 					<div class="row">
 						<div class="col-lg-4 col-md-6 wow" data-wow-offset="150">

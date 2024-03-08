@@ -21,11 +21,11 @@
 				<ul>
 					<li><span><a href="index.php">Home</a></span></li>
 					<li><span><a href="about-us.php">About Us</a></span></li>
-					<li><span><a href="#">Campus</a></span></li>
+					<li><span><a href="campus.php">Campus</a></span></li>
 					<li><span><a href="academics.php">Academics</a></span></li>
 					<li><span><a href="co-curriculars.php">Co-Curriculars</a></span></li>
 					<li><span><a href="gallery.php">Gallery</a></span>
-					<li><span><a href="#">Testimonials</a></span>
+					<li><span><a href="testimonial.php">Testimonials</a></span>
 					<li><span><a href="#">News Corner</a></span>
 						<ul>
 						
@@ -35,7 +35,7 @@
 						</ul>
 					</li>
 
-					<li><span><a href="#0">Addmissions</a></span></li>
+					<li><span><a href="addmissions.php">Addmissions</a></span></li>
 					<li class="desktop-hid"><span><a href="">E-Prospects</a></span></li>
 					<li class="desktop-hid"><span><a href="">Enquire now</a></span></li>
 					<li class="desktop-hid"><span><a href="">Contact Us</a></span></li>
