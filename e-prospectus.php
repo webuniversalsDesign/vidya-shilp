@@ -4,10 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog - Vidya Shilp School</title>
+    <title>E-Prospectus - Vidya Shilp School</title>
     <?php include('layouts/head.php') ?>
-    <link href="css/blog.css" rel="stylesheet">
-
 </head>
 
 <body>
@@ -17,31 +15,32 @@
 
             <div class="breadcrumb-section">
                 <div class="head">
-                    <h1 class="text-center fadeInUp">Blog </h1>
-                    <p class="text-center t-color-white"><a href="index.php">Home</a> / Blogs</p>
+                    <h1 class="text-center fadeInUp">E-Prospectus </h1>
+                    <p class="text-center t-color-white"><a href="index.php">Home</a> / E-Prospectus</p>
                 </div>
             </div>
 
-            <div class="container py-5">
+            <div class="container mt-5 mb-5">
                 <div class="row">
-
-                    <div class="col-md-4">
-                        <div class="shadow bg-white">
-<div class="blog-img">
-    <img src="img/slides/new/blog1.avif" alt=""/>
-</div>
-<div class="px-3 py-3">
-    <h6 class="mb-3 t-color-red">How does project based learning enhance an academic experience?</h6>
-        <p id="paragraph" class="margin-0">Project based learning is very important for the students to enhance 
-        their academic experience. It helps to develop the skills of the students.</p>
-
-<a href="blog-details.php" class="btn btn-outline-danger btn-sm mt-3">Read more</a>
-    
-</div>
-
-                        </div>
+                    <div class="col-lg-12">
+                      
+                            <form class="center-form shadow">
+                                <div class="form-group my-4">
+                                    
+                                    <input type="text" class="custom-input " id="name" placeholder="Enter your name">
+                                </div>
+                                <div class="form-group my-4">
+                                    
+                                    <input type="email" class="custom-input " id="email" aria-describedby="emailHelp" placeholder="Enter email">
+                                </div>
+                                <div class="form-group my-4">
+                                    
+                                    <input type="tel" class="custom-input " id="phone" placeholder="Enter phone number">
+                                </div>
+                                <button type="submit" class="btn btn-primary  button-e">Submit</button>
+                            </form>
+                        
                     </div>
-
                 </div>
             </div>
 
@@ -50,21 +49,13 @@
         <?php @include('layouts/footer.php') ?>
     </div>
 
-    <script>
-        function limitWords() {
-  var paragraph = document.getElementById("paragraph");
-  var words = paragraph.textContent.split(' ').slice(0, 10).join(' ');
-  paragraph.textContent = `${words} ....`;
-}
-limitWords();
 
-    </script>
 
     <!-- COMMON SCRIPTS -->
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/common_scripts.js"></script>
     <script src="js/main.js"></script>
- 
+
     <script>
         window.addEventListener('scroll', function() {
             var logoContainer = document.getElementById('logo-container');
@@ -83,8 +74,6 @@ limitWords();
             }
         });
     </script>
-
-
 
 </body>
 

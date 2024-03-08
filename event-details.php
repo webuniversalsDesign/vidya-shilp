@@ -29,7 +29,7 @@
 					<div class="profile">
 						<div class="d-flex justify-content-center">
 							<div class="profile-img">
-						<img src="img/gallery/teacher-1.jpg" alt=""/>
+						<img src="img/gallery/teacher-1.avif" alt=""/>
 						</div>
 						</div>
 						

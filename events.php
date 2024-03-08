@@ -33,7 +33,7 @@
 						<figure class="block-reveal">
 							<div class="block-horizzontal"></div>
 							
-							<a href="event-details.php"><img src="img/gallery/teacher-1.jpg" class="img-fluid" alt=""></a>
+							<a href="event-details.php"><img src="img/gallery/teacher-1.avif" class="img-fluid" alt=""></a>
 							<div class="price">17 Aug 22</div>
 							<div class="preview"><span>More info</span></div>
 						</figure>
@@ -56,7 +56,7 @@
 						<figure class="block-reveal">
 							<div class="block-horizzontal"></div>
 							
-							<a href="event-details.php"><img src="img/gallery/teacher-2.jpg" class="img-fluid" alt=""></a>
+							<a href="event-details.php"><img src="img/gallery/teacher-2.avif" class="img-fluid" alt=""></a>
 							<div class="price">02 Oct 2022</div>
 							<div class="preview"><span>More info</span></div>
 						</figure>
@@ -79,7 +79,7 @@
 						<figure class="block-reveal">
 							<div class="block-horizzontal"></div>
 							
-							<a href="event-details.php"><img src="img/gallery/teacher-3.jpg" class="img-fluid" alt=""></a>
+							<a href="event-details.php"><img src="img/gallery/teacher-3.avif" class="img-fluid" alt=""></a>
 							<div class="price">30 Mar 21</div>
 							<div class="preview"><span>More info</span></div>
 						</figure>
@@ -114,16 +114,7 @@
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/common_scripts.js"></script>
     <script src="js/main.js"></script>
-	<script src="assets/validate.js"></script>
-  
-	<script>
-        HeaderVideo.init({
-            container: $('.header-video'),
-            header: $('.header-video--media'),
-            videoTrigger: $("#video-trigger"),
-            autoPlayVideo: true
-        });
-    </script>
+
     <script>
         window.addEventListener('scroll', function() {
             var logoContainer = document.getElementById('logo-container');

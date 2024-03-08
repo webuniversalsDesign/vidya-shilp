@@ -136,7 +136,14 @@
                                 <div class="overlay-white-2 py-3 b-radius-5">
                                     <p class="t-color-blue text-center margin-0">Transport</p>
                                 </div>
+                                <div class="overlay-content">
+                                    <div class="content-wrapper">
+                                        <h6 class="t-color-red">Transport</h6>
+                                        <p class="margin-0">The school has tied up with external transport vendors and parents can either opt for self-conveyance or utilise any of the vendors. The buses will be GPS enabled and tracking will be available for parents. To ensure the safety of the students, each bus will have a female attendant. The buses are well maintained and sanitized.</p>
+                                    </div>
+                                </div>
                             </div>
+                            
                         </div>
 
                         <div class="col-lg-4 col-sm-12 py-2">
@@ -150,6 +157,12 @@
 
                                     <div class="overlay-white-2 py-3 b-radius-5">
                                         <p class="t-color-blue text-center margin-0">Infirmary</p>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="content-wrapper">
+                                        <h6 class="t-color-red">Infirmary</h6>
+                                        <p class="margin-0">The school infirmary is well-equipped to take care of minor accidents. Clear medical records are kept for each student. Teachers ensure that students requiring medical attention receive it and all medications are given, recorded and checked. We also ensure that parents are kept fully informed regarding a student’s health not only in the case of major concerns but also in case of minor ailments.</p>
                                     </div>
                                 </div>
                             </div>
@@ -167,6 +180,12 @@
                                         <p class="t-color-blue text-center margin-0">Lab</p>
                                     </div>
                                 </div>
+                                <div class="overlay-content">
+                                    <div class="content-wrapper">
+                                        <h6 class="t-color-red">Lab</h6>
+                                        <p class="margin-0">We provide well-equipped laboratories, with customized equipment to cater to the requirements of students of different age groups. In addition to the Physics, Chemistry and Biology Labs, the school also provides an IT lab. The Labs are designed keeping in mind the materials being used, safety regulations and ventilation systems.</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -178,11 +197,17 @@
 
 
                                 <div class="overlay-white-2">
-                                
+
                                     <div class="overlay-white-2 py-3 b-radius-5">
                                         <p class="t-color-blue text-center margin-0">Technology</p>
                                     </div>
-                                    
+
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="content-wrapper">
+                                        <h6 class="t-color-red">Technology</h6>
+                                        <p class="margin-0">Interactive whiteboards are used for classroom teaching and involve students to learn with technology. Notes, flowcharts, drawings, and PPTs used in the course of teaching are saved to be accessed as and when required.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -197,6 +222,12 @@
                                         <p class="t-color-blue text-center margin-0">Library</p>
                                     </div>
                                 </div>
+                                <div class="overlay-content">
+                                    <div class="content-wrapper">
+                                        <h6 class="t-color-red">Library</h6>
+                                        <p class="margin-0">The Library is the cornerstone for all reading and reference material, literary discussions, seminars, access of information, knowledge building and discussions. It is a centre for learning and plays a key role in fostering love for reading. Students can read hard copies or online material. It also provides students and educators with all possible resources required for teaching and learning.</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-12 py-2">
@@ -205,9 +236,15 @@
                                 <img src="img/slides/new/security.jpg" class="img-fluid hover-imgscale-1" alt="">
 
                                 <div class="overlay-white-2">
-                               
+
                                     <div class="overlay-white-2 py-3 b-radius-5">
                                         <p class="t-color-blue text-center margin-0">Safety & Security</p>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="content-wrapper">
+                                        <h6 class="t-color-red">Safety & Security</h6>
+                                        <p class="margin-0">At Vidyashilp School, we give utmost priority to the safety of our children. Each staff undergoes extensive background checks. Round-the-clock security of the campus is ensured through 100% CCTV cameras coverage manned by trained security personnel. Additionally, the premises are regularly and thoroughly sanitized.</p>
                                     </div>
                                 </div>
                             </div>
@@ -225,18 +262,9 @@
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/common_scripts.js"></script>
     <script src="js/main.js"></script>
-    <script src="assets/validate.js"></script>
 
-    <!-- SPECIFIC SCRIPTS -->
-    <script src="js/video_header.js"></script>
-    <script>
-        HeaderVideo.init({
-            container: $('.header-video'),
-            header: $('.header-video--media'),
-            videoTrigger: $("#video-trigger"),
-            autoPlayVideo: true
-        });
-    </script>
+
+
     <script>
         window.addEventListener('scroll', function() {
             var logoContainer = document.getElementById('logo-container');

@@ -38,7 +38,7 @@
 								<img src="img/gallery/gallery-1.jpg" alt="">
 								<figcaption>
 									<div class="caption-content">
-										<a href="img/gallery/large/gallery-lg-1.jpg" title="Photo title" data-effect="mfp-zoom-in">
+										<a href="img/gallery/large/gallery-lg-1.avif" title="Photo title" data-effect="mfp-zoom-in">
 											<i class="pe-7s-albums"></i>
 											<p>View Image</p>
 										</a>
@@ -51,7 +51,7 @@
 								<img src="img/gallery/gallery-2.jpg" alt="">
 								<figcaption>
 									<div class="caption-content">
-										<a href="img/gallery/large/gallery-lg-2.jpg" title="Photo title" data-effect="mfp-zoom-in">
+										<a href="img/gallery/large/gallery-lg-2.avif" title="Photo title" data-effect="mfp-zoom-in">
 											<i class="pe-7s-albums"></i>
 											<p>View Image</p>
 										</a>
@@ -65,7 +65,7 @@
 								<img src="img/gallery/gallery-3.jpg" alt="">
 								<figcaption>
 									<div class="caption-content">
-										<a href="img/gallery/large/gallery-lg-3.jpg" title="Photo title" data-effect="mfp-zoom-in">
+										<a href="img/gallery/large/gallery-lg-3.avif" title="Photo title" data-effect="mfp-zoom-in">
 											<i class="pe-7s-albums"></i>
 											<p>View Image</p>
 										</a>
@@ -78,7 +78,7 @@
 								<img src="img/gallery/gallery-4.jpg" alt="">
 								<figcaption>
 									<div class="caption-content">
-										<a href="img/gallery/large/gallery-lg-4.jpg" title="Photo title" data-effect="mfp-zoom-in">
+										<a href="img/gallery/large/gallery-lg-4.avif" title="Photo title" data-effect="mfp-zoom-in">
 											<i class="pe-7s-albums"></i>
 											<p>View Image</p>
 										</a>
@@ -91,7 +91,7 @@
 								<img src="img/gallery/gallery-5.jpg" alt="">
 								<figcaption>
 									<div class="caption-content">
-										<a href="img/gallery/large/gallery-lg-5.jpg" title="Photo title" data-effect="mfp-zoom-in">
+										<a href="img/gallery/large/gallery-lg-5.avif" title="Photo title" data-effect="mfp-zoom-in">
 											<i class="pe-7s-albums"></i>
 											<p>View Image</p>
 										</a>
@@ -104,7 +104,7 @@
 								<img src="img/gallery/gallery-6.jpg" alt="">
 								<figcaption>
 									<div class="caption-content">
-										<a href="img/gallery/large/gallery-lg-6.jpg" title="Photo title" data-effect="mfp-zoom-in">
+										<a href="img/gallery/large/gallery-lg-6.avif" title="Photo title" data-effect="mfp-zoom-in">
 											<i class="pe-7s-albums"></i>
 											<p>View Image</p>
 										</a>
@@ -136,7 +136,7 @@
 	<script src="js/jquery-3.7.1.min.js"></script>
 	<script src="js/common_scripts.js"></script>
 	<script src="js/main.js"></script>
-	<script src="assets/validate.js"></script>
+	
 	<script>
         window.addEventListener('scroll', function() {
             var logoContainer = document.getElementById('logo-container');

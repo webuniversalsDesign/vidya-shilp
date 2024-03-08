@@ -126,7 +126,7 @@
 	<script src="js/jquery-3.7.1.min.js"></script>
 	<script src="js/common_scripts.js"></script>
 	<script src="js/main.js"></script>
-	<script src="assets/validate.js"></script>
+	
     <script>
         window.addEventListener('scroll', function() {
             var logoContainer = document.getElementById('logo-container');
