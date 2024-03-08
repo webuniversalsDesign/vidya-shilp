@@ -6474,3 +6474,30 @@ transform: translate(-50%, -50%) scale(1);
   /* letter-spacing: 1px; */
   font-size: 20px;
 }
+
+.blog-img{
+  height: 200px;
+  width: 100%;
+}
+
+.blog-img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+.profile-img{
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.profile-img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  /* border-radius: 100px; */
+
+}

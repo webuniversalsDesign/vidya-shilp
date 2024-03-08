@@ -20,14 +20,43 @@
                 </div>
             </div>
 
-            
+            <div class="container py-5">
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <div class="shadow bg-white">
+<div class="blog-img">
+    <img src="img/slides/new/blog1.avif" alt=""/>
+</div>
+<div class="px-3 py-3">
+    <h6 class="mb-3 t-color-red">How does project based learning enhance an academic experience?</h6>
+        <p id="paragraph" class="margin-0">Project based learning is very important for the students to enhance 
+        their academic experience. It helps to develop the skills of the students.</p>
+
+<a href="blog-details.php" class="btn btn-outline-danger btn-sm mt-3">Read more</a>
+    
+</div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
 
         </main>
 
         <?php @include('layouts/footer.php') ?>
     </div>
 
+    <script>
+        function limitWords() {
+  var paragraph = document.getElementById("paragraph");
+  var words = paragraph.textContent.split(' ').slice(0, 10).join(' ');
+  paragraph.textContent = `${words} ....`;
+}
+limitWords();
 
+    </script>
 
     <!-- COMMON SCRIPTS -->
     <script src="js/jquery-3.7.1.min.js"></script>
@@ -63,6 +92,8 @@
             }
         });
     </script>
+
+
 
 </body>
 

@@ -21,33 +21,33 @@
     </div>
 </div>
 
-            <div class="bg_color_1 mt-5 pt-5">
+            <div class="bg_color_1  py-5">
                 <div class="container  ">
 
-                    <div class="row">
-                        <div class="col-lg-6 col-sm-12">
+                    <div class="row align-items-center">
+                   
+                   
+                        <div class="col-lg-5 col-sm-12">
                             <div class="image-box position-relative">
-                                <img src="img/Bagalur Campus Image.jpg" class="img-fluid" alt="">
+                                <img src="img/Bagalur Campus Image.jpg" class="img-fluid b-radius-5" alt="">
                                 <!-- <div class="overlays"></div> -->
                             </div>
                         </div>
-                        <!-- <div class="col-md-0"></div> -->
-                        <div class="col-lg-6 col-sm-12">
+                        <div class="col-md-1"></div>
+
+                        <div class="col-lg-5 col-sm-12">
                             <h4 class="mb-4">VSS Bagalur/BSK – North / South Bengaluru</h4>
-                            <p class="text-justify">Vidyashilp School carries forward the principles and best practices
-                                from the Vidyashilp Education Group (VSEG). The school fuses a curated curriculum,
-                                effective teaching practices and a robust sports infrastructure.
-                                <br />
-                                <br />
-                                All this, rooted in an
-                                ecosystem of strong Indian culture. Here, your child flourishes in an environment that
-                                provides freedom in learning. While your child’s unique strengths are honed through
-                                engaging learning experiences, Vidyashilp School prepares children to become
-                                well-rounded individuals and responsible global citizens. Just the way you would want
-                                them to be.
+                            <p class="text-justify">Vidyashilp School carries forward the principles 
+                                and best practices from the Vidyashilp Education Group (VSEG).
+                                <br/>
+                                <br/>
+                                The
+                                 school fuses a curated curriculum, effective teaching practices 
+                                 and a robust sports infrastructure. All this, rooted in an ecosystem of strong
+                                 Indian culture. Here, your child flourishes in an environment that provides freedom in learning. 
                             </p>
 
-                            <a href="#" class="btn btn-primary" style="width:150px;">Lern more</a>
+                            <a href="#" class="btn btn-primary" style="width:150px;">Learn more</a>
 
                         </div>
 
@@ -95,9 +95,9 @@
                 </div>
             </div>
 
-            <div class="container py-5">
+            <div class="container py-md-5 py-2">
                 <div class="row">
-                    <div class="col-md-6 " >
+                    <div class="col-md-6  py-md-1 py-2" >
                         <div class="shadow p-4 b-radius-10 w-max-content wow" data-wow-offset="150">
 
                             <div class="d-flex gap-2 align-items-center pb-3">
@@ -109,7 +109,7 @@
                                 the whole being – body, mind and spirit.</p>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 py-md-1 py-2">
                         <div class="shadow p-4 b-radius-10 w-max-content">
 
                             <div class="d-flex gap-2 align-items-center pb-3">
@@ -177,23 +177,23 @@
 
                 <div class="row">
 
-                    <div class="col">
+                    <div class="col py-md-1 py-2">
                         <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content">Estimated in <span class="t-color-red"><b>1982</b></span></p>
                     </div>
 
-                    <div class="col">
+                    <div class="col py-md-1 py-2">
                         <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content">Distenguished Alumni accress <span class="t-color-red"><b>20</b></span> Countries</p>
                     </div>
 
-                    <div class="col">
+                    <div class="col py-md-1 py-2">
                         <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content">Placement accross Primium Universities</p>
                     </div>
 
-                    <div class="col">
+                    <div class="col py-md-1 py-2">
                         <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content"><span class="t-color-red"><b>14</b></span> National and International Accreditations</p>
                     </div>
 
-                    <div class="col">
+                    <div class="col py-md-1 py-2">
                         <p class="shadow p-3 margin-0 b-radius-5 text-center w-max-content">Over <span class="t-color-red"><b>800</b></span> Awards</p>
                     </div>
                 </div>
@@ -205,11 +205,11 @@
 
                 <div class="row">
                     <div class="col-md-2"></div>
-                    <div class="col-md-4">
-                        <img src="img/slides/new/leadersship1.png" alt="" class="img-fluid w-max-content" />
+                    <div class="col-md-4 py-2">
+                        <img src="img/slides/new/leadership1.avif" alt="" class="img-fluid w-max-content" />
                     </div>
-                    <div class="col-md-4">
-                        <img src="img/slides/new/leadersship2.png" alt="" class="img-fluid w-max-content" />
+                    <div class="col-md-4 py-2">
+                        <img src="img/slides/new/leadership2.avif" alt="" class="img-fluid w-max-content" />
                     </div>
                     <div class="col-md-2"></div>
 
@@ -226,7 +226,7 @@
                     </div>
                     <div class="col-md-9 py-1">
                         <h4 class="mb-3 t-color-blue">Academic Head</h4>
-                        <p>A seasoned educator, with 37 years of teaching and leadership experience behind her, Ms.
+                        <p class="text-justify">A seasoned educator, with 37 years of teaching and leadership experience behind her, Ms.
                             Nalini Ponnappa comes with a strong time-tested know-how of the way children learn. She
                             has a Master’s in Education and taught across grades in Delhi, Lagos and Bangalore. As
                             the Academic Head of Vidyashilp School, Ms. Nalini will take forward the vision of building
@@ -241,7 +241,7 @@
                   
                     <div class="col-md-9 py-1">
                         <h4 class="mb-3 t-color-blue">Message from Principal</h4>
-                        <p>We believe in a joyful experiential learning system where each child is encouraged to
+                        <p class="text-justify">We believe in a joyful experiential learning system where each child is encouraged to
                             participate wholeheartedly. There are only two lasting bequests we can give our children.
                             One is roots, and the other, wings! One is offered by our loving parents and the other is
                             offered by us. Multi-disciplinary activities designed by our teachers arouse the child’s

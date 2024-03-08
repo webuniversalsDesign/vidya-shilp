@@ -62,7 +62,7 @@
                                 </div>
 
                             </div>
-                            <h6 class="py-3 px-2 hover-none t-color-red">Cultural Anchoring</h6>
+                            <h6 class="py-3 px-2 hover-none t-color-red">Communication and Self-Expression</h6>
 
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                     <div class="col-md-4 pt-md-5 pt-2 ">
                         <div class="acadamic-card">
                             <div class="acadamic-place">
-                                <img src="img/acadmic/co-operative-learning.avif" alt="" />
+                                <img src="img/acadmic/leadership-initiative.avif" alt="" />
 
                                 <div class="overlay-img-white">
                                     <div class="content">

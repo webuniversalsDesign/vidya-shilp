@@ -30,7 +30,7 @@
 						<ul>
 						
 							<li><a href="blog.php">Blog</a></li>
-							<li><a href="login.php">Events</a></li>
+							<li><a href="events.php">Events</a></li>
 							
 						</ul>
 					</li>
