@@ -68,8 +68,8 @@
                     <p class="margin-0 bg-red p-3 t-color-white b-radius-5 text-justify">Vilyap Education Group is recognized worldwide for our unique curriculum and teaching practices. Backed 
                         by close to four decades of proven excellence, our portfolio of Intentions provide thougha leadenhip to
                          the education community across the country. The Group consists 
-                        of the flagship Vidyashilp Academy, Vidyasagar Preschools along with Vilyadulp 
-                        Schools and Vidyashlp Unversity.</p>
+                        of the flagship Vidyashilp Academy, Vidyasagar Preschools along with Vidyashilp 
+                        Schools and Vidyashilp Unversity.</p>
                     </div>
                 </div>
             </div>
