@@ -975,7 +975,7 @@ footer ul.links li a:hover:after {
 }
 footer ul.links li a:after {
   font-family: 'ElegantIcons';
-  content: "\24";
+  content: "\2192";
   position: absolute;
   margin-left: 5px;
   top: 1px;
