@@ -20,9 +20,5 @@
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/vendors.css" rel="stylesheet">
 
-	<!-- YOUR CUSTOM CSS -->
-	<link href="css/custom.css" rel="stylesheet">
 
-	<!-- Modernizr -->
-	<script src="js/modernizr.js"></script>
 	<script src="https://kit.fontawesome.com/89650c467a.js" crossorigin="anonymous"></script>
