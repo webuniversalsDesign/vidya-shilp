@@ -21,7 +21,7 @@
 						<ul class="contacts">
 							<li class="d-flex gap-2">
 								<i class="fa-solid fa-location-dot mt-2"></i>
-								<span> 90/1, Chagalatti, Off Hennur-Bagalur Road, Bengaluru – 562149</span>
+								<span>90/1, Chagalatti, Off Hennur-Bagalur Road, Bengaluru – 562149</span>
 							</li>
 							<li><a href="tel:6366636624"><i class="fa-solid fa-phone"></i>+91-6366636624</a></li>
 

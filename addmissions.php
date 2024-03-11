@@ -387,6 +387,25 @@
 									</div>
 								</div>
 							</div>
+							<div class="card">
+								<div class="card-header" role="tab">
+									<h5 class="mb-0">
+										<a class="collapsed" data-bs-toggle="collapse" href="#id17"
+											aria-expanded="false">
+											<i class="indicator fa-solid fa-plus"></i>17. What are the amenities offered in Vidyashilp School?
+										</a>
+									</h5>
+								</div>
+								<div id="id17" class="collapse" role="tabpanel"
+									data-bs-parent="#payment">
+									<div class="card-body">
+<p>
+Vidyashilp School is spread over a 4-acre campus, with strategically designed spaces to stimulate learning. Teach-driven classrooms with smart boards, a well-stocked library, and labs for different academic domains such as computer science, chemistry, biology and physics, transform the school into a sanctuary for learning. We also encourage sports with amenities such as a full-fledged playground, basketball courts and cricket nets.
+</p>
+									</div>
+								</div>
+							</div>
+
 							<!-- /card -->
 						</div>
 						<!-- /accordion payment -->
